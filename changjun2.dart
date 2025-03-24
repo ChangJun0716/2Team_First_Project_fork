@@ -61,7 +61,7 @@ class Changjun2 extends StatelessWidget {
                     ),
                     backgroundColor: Colors.blueGrey
                   ),
-                  child: Text("Privious Page",
+                  child: Text("GO to main",
                   style: TextStyle(
                     color: Colors.black
                   ),
